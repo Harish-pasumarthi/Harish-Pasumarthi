@@ -6,7 +6,7 @@
 
 🔭 **Current Role**: Final Year Student  
 🎓 **Status**: Open to Work 🤖  
-🌟 **Quote**: *Burn slowly with consistency*
+🌟 *Burn slowly with consistency*
 
 ---
 
