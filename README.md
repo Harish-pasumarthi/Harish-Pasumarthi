@@ -53,6 +53,8 @@ Currently, I'm working on a **Chrome Extension for Detecting Phishing Websites**
 
 ### 📈 GitHub Stats
 
+![Profile Views](https://komarev.com/ghpvc/?username=Harish-Pasumarthi&color=blue&style=flat-square&label=Profile+Views)
+
 ![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-Pasumarthi&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 ![Harish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harish-Pasumarthi&theme=radical)
 ![Harish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Pasumarthi&layout=compact&theme=radical)
