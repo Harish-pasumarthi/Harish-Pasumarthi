@@ -1,73 +1,73 @@
-# Hi there! 👋
-![github-header-image](https://github.com/user-attachments/assets/8d8250ab-58f0-4bff-849e-9710685624c9)
+|Yep I'm <span style="color:yellow">𝙿𝚊𝚛</span><span style="color:pink">𝚛𝚘𝚝!</span> ![Small Logo](https://img.icons8.com/?size=35&id=lhja1b4o21iU&format=png&color=000000)|
+| ----------- |
+
+![github-header-image](https://i.pinimg.com/originals/42/cc/ee/42cceedcc8b34be69e5e0137eb9bb50f.jpg)
 
 
-## I'm Harish Pasumarthi
+  <span style="color:white">no I'm</span> 
+ <span style="color:yellow; font-size:larger;"> Harish</span> ![Small Logo](https://img.icons8.com/?size=50&id=PJXbLWx2iURZ&format=png&color=000000)<span style="color:red; font-size: larger;">Pasumarthi </span> |
+| ----------- |
+ ![AI & ML](https://img.icons8.com/?size=40&id=ch074nVUXMHS&format=png&color=000000)<span style="color:white">𝙵𝚒𝚗𝚊𝚕 𝚈𝚎𝚊𝚛 𝙱.𝚃𝚎</span><span style="color:yellow">𝚌𝚑 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝙰𝙸 & 𝙼𝙻</span>    
+![Open to Work Logo](https://img.icons8.com/?size=40&id=WeHfdsDQ6QbG&format=png&color=000000)<span style="color:green">**Status**: </span><span style="color:white">𝙾𝚙𝚎𝚗 𝚝𝚘 𝚆𝚘𝚛𝚔 </span> 
+![Logo](https://img.icons8.com/?size=40&id=ZKSYEIlUVlu9&format=png&color=000000)<span style="color:white">𝙱𝚞𝚛𝚗 𝚜𝚕𝚘𝚠𝚕𝚢 𝚠𝚒</span><span style="color:orange">𝚝𝚑 𝚌𝚘𝚗𝚜𝚒𝚜𝚝𝚎𝚗𝚌𝚢 </span> 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎                                         ![Logo](https://img.icons8.com/?size=40&id=VF2iKmXcrqAg&format=png&color=000000)
 
-🔭 **Current Role**: Final Year Student  
-🎓 **Status**: Open to Work 🤖  
-🌟 *Burn slowly with consistency*
 
 ---
 
-### 🌟 About Me
+### 🚀 Project Repositories
 
-I'm a final-year student passionate about technology and creative works. My interests span a variety of fields, including:
+| **Project** | **Description** | **Technologies Used** | **Repository Link** |
+| ----------- | ---------------- | --------------------- | ------------------- |
+| ![logo](https://img.icons8.com/?size=50&id=19318&format=png&color=000000)**YouTube LikeSort** | A web app that uses the YouTube API to sort videos by likes. | Flask, Python, HTML, CSS, JavaScript, YouTube API | [![link](https://img.icons8.com/?size=50&id=rLMbY01ZXrPE&format=png&color=000000)](http:upload_chesina_link_undali_ekkada) &nbsp;&nbsp; |
+| ![logo](https://img.icons8.com/?size=50&id=inqzpXURPvpn&format=png&color=000000)**The GIF Chatbot** | A web-based app for searching GIFs via the Giphy API. | Flask, Python, HTML, CSS, JavaScript, Giphy API | [![link](https://img.icons8.com/?size=50&id=rLMbY01ZXrPE&format=png&color=000000)](https://github.com/Harish-pasumarthi/The-GIF-chatbot) &nbsp;&nbsp; |
+| ![logo](https://img.icons8.com/?size=50&id=GUKg8L0_GkKJ&format=png&color=000000)**Phishing Website Detector** | A Chrome Extension leveraging machine learning to detect phishing websites. | Machine Learning, Python, Chrome API |[![link](https://img.icons8.com/?size=50&id=rLMbY01ZXrPE&format=png&color=000000)](https://github.com/Harish-pasumarthi/chrome-Extension-for-Phishing-Website-Detection) &nbsp;&nbsp; |
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Python**
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) **Git**
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) **Docker**
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) **Kubernetes**
-- ![Cloud](https://img.shields.io/badge/-Cloud-00A8E1?style=flat&logo=cloud&logoColor=white) **Cloud Technologies**
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) **Linux**
-- ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF6F00?style=flat&logo=security&logoColor=white) **Cybersecurity**
-- ![AI & ML](https://img.shields.io/badge/-AI%20%26%20ML-FF5722?style=flat&logo=ai&logoColor=white) **AI & ML**
-- ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-FF4081?style=flat&logo=engineering&logoColor=white) **Prompt Engineering**
-- ![Generative AI](https://img.shields.io/badge/-Generative%20AI-9C27B0?style=flat&logo=ai&logoColor=white) **Generative AI**
 
-Currently, I'm working on a **Chrome Extension for Detecting Phishing Websites**.
+---
+### 
+![Small Logo](https://img.icons8.com/?size=50&id=PJXbLWx2iURZ&format=png&color=000000)
+
+**About Me**
+
+*𝙸 𝚊𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙿𝚢𝚝𝚑𝚘𝚗 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 𝚜𝚎𝚎𝚔𝚒𝚗𝚐 𝚊𝚗 𝚎𝚗𝚝𝚛𝚢-𝚕𝚎𝚟𝚎𝚕 𝚙𝚘𝚜𝚒𝚝𝚒𝚘𝚗 𝚒𝚗 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚝𝚘 𝚊𝚙𝚙𝚕𝚢 𝚊𝚗𝚍 𝚎𝚗𝚑𝚊𝚗𝚌𝚎 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜. 𝙸 𝚊𝚖 𝚎𝚊𝚐𝚎𝚛 𝚝𝚘 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚊 𝚍𝚢𝚗𝚊𝚖𝚒𝚌 𝚝𝚎𝚊𝚖, 𝚐𝚛𝚘𝚠 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕𝚕y, 𝚊𝚗𝚍 𝚖𝚊𝚜𝚝𝚎𝚛 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜.*
+
+
+
+
+𝙼𝚢 𝚖𝚊𝚒𝚗 𝚊𝚛𝚎𝚊𝚜 𝚘𝚏 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚒𝚗𝚌𝚕𝚞𝚍𝚎:
+
+- <span style="color:green">**Backend Development**</span>
+- <span style="color:green">**Data Structures and Algorithms**</span>
+- <span style="color:green">**API Development**</span>
+- <span style="color:green">**Prompt Engineering**</span>
+- <span style="color:green">**Generative AI**</span>
+- <span style="color:green">**Design Patterns**</span>
+- <span style="color:green">**Into AI Tech**</span>
+
+### 🚀 Learning Tech Stack
+
+| **Category**              | **Technologies**                                                                                                                                     |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <span style="color:orange">**Programming Languages**</span> | ![Python](https://img.icons8.com/?size=50&id=hGdCwhSHUe6L&format=png&color=000000) ![HTML](https://img.icons8.com/?size=50&id=20909&format=png&color=000000) ![CSS](https://img.icons8.com/?size=50&id=21278&format=png&color=000000) |
+| **Database Management**    | ![MySQL](https://img.icons8.com/?size=50&id=UFXRpPFebwa2&format=png&color=000000) ![MongoDB](https://img.icons8.com/?size=50&id=bosfpvRzNOG8&format=png&color=000000) |
+| <span style="color:orange">**Frameworks and Tools** </span>  | ![Django](https://img.icons8.com/?size=50&id=IuuVVwsdTi2v&format=png&color=000000) ![Flask](https://img.icons8.com/?size=65&id=ewGOClUtmFX4&format=png&color=000000) ![Git](https://img.icons8.com/?size=50&id=20906&format=png&color=000000) ![GitHub](https://img.icons8.com/?size=60&id=u9R54eMKS8fw&format=png&color=000000) ![VSCode](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000) ![PyCharm](https://img.icons8.com/?size=50&id=vinpBD5oA3b4&format=png&color=000000) |
+| **Operating Systems**      | ![Linux](https://img.icons8.com/?size=50&id=HF4xGsjDERHf&format=png&color=000000) ![Windows](https://img.icons8.com/?size=50&id=gXoJoyTtYXFg&format=png&color=000000) |
+
+
+
 
 ---
 
-### 🚀 Tech Stack
+###  ![logo](https://img.icons8.com/?size=50&id=i2kv7wNxo3oH&format=png&color=000000)
+<span style="color:red">**Hobbies** </span> 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-00A8E1?style=flat&logo=cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6F00?style=flat&logo=security&logoColor=white)
-![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-FF5722?style=flat&logo=ai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF4081?style=flat&logo=engineering&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-9C27B0?style=flat&logo=ai&logoColor=white)
+- **Drawing**  
+- **Photography**  
+- **Exploring AI Tools**  
+- **Reading (e.g., Compound Effect, The Psychology of Money)**  
+- **Content Creation (YouTube, Blogs)**
 
 ---
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-pasumarthi/)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/harishcode33)
-
+                    我希望你喜欢我的个人资料 ✨
 ---
-
-### 📈 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Harish-Pasumarthi&color=blue&style=flat-square&label=Profile+Views)
-
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-Pasumarthi&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-![Harish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harish-Pasumarthi&theme=radical)
-![Harish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Pasumarthi&layout=compact&theme=radical)
-
----
-
-### 🎨 Hobbies
-
-- **Reading Books** ![Books](https://img.shields.io/badge/Books-FFD700?style=flat&logo=book&logoColor=white)
-- **Drawing Art** ![Art](https://img.shields.io/badge/Art-FF69B4?style=flat&logo=paint-brush&logoColor=white)
-- **Mobile Gaming** ![Gaming](https://img.shields.io/badge/Gaming-00FF00?style=flat&logo=gamepad&logoColor=white)
-- **Going to the Gym** ![Gym](https://img.shields.io/badge/Gym-FF4500?style=flat&logo=dumbbell&logoColor=white)
-
----
-
-Feel free to reach out if you want to collaborate on projects or just want to chat about tech!
