@@ -93,9 +93,10 @@
     <img src="https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png&color=FFFFFF" alt="X">
   </a>
   
-  <a href="harishpasumarthi33@gmail.com" target="_blank">
+ <a href="mailto:harishpasumarthi33@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=50&id=Y2GfpkgYNp42&format=png&color=FFFFFF" alt="Gmail">
-  </a>
+</a>
+
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <img src="https://i.gifer.com/origin/e2/e23a55d2b7b13b7421ee8d79b65f4886_w200.gif"  width="250" height="150" /><br></br>
