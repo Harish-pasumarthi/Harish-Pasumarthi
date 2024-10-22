@@ -101,7 +101,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <img src="https://i.gifer.com/origin/e2/e23a55d2b7b13b7421ee8d79b65f4886_w200.gif"  width="250" height="150" /><br></br>
 
-我希望你喜欢我的个人资料   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30" />
+I hope you like my profile   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30" />
 
 
 
